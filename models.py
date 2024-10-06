@@ -1,4 +1,3 @@
-# where the machine learning models are defined and trained
 # models.py
 
 from sklearn.linear_model import LogisticRegression

@@ -1,4 +1,3 @@
-# will handle all text preproecessing tasks
 # preprocessing.py
 
 import pandas as pd

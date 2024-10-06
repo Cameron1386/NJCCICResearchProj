@@ -1,4 +1,3 @@
-# We will load data, preprocess it, and run our machine learning models here
 # main.py
 
 from preprocessing import load_and_clean_data
