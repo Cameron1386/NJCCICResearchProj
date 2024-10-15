@@ -5,7 +5,7 @@ from models import train_logistic_regression, train_random_forest
 
 def main():
     # Step 1: Load and Clean Data
-    X_train, X_test, y_train, y_test = load_and_clean_data('data/NJCCIC Dataset - Training Dataset.csv')
+    X_train, X_test, y_train, y_test = load_and_clean_data('data/Real DataSet - Emails.csv')
     
     # Step 2: Train and Evaluate Logistic Regression
     train_logistic_regression(X_train, X_test, y_train, y_test)
